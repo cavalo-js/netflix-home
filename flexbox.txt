@@ -1,0 +1,6 @@
+flex-wrap
+flex-shrink
+align-item
+justify-content
+order
+flex-basis
